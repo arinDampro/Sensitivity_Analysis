@@ -1,0 +1,2 @@
+# Sensitivity_Analysis
+This is a sensitivity analysis project on Amazon Fine Food Review Data Set. In this project i applied various ml algorithms on the Review data set. and sincerely i perform all of this operations on unbalanced data set to visualize  how this algorithms are performing for unbalanced data set. Before applying those algorithms i did data pre-processing task like BOW,TF-IDF,W2VEC etc. 
